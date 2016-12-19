@@ -1,0 +1,15 @@
+﻿body{
+    background-color:#f00;
+}
+
+.order {
+    width:25%;
+    margin:auto;
+    background-color:white;
+    padding:1em;
+}
+
+h1{
+    text-align:center;
+    color:#f00;
+}

@@ -1,0 +1,15 @@
+﻿body{
+    background-color:#f00;
+}
+
+.receipt {
+    background-color:#fff;
+    width:20%;
+    margin:0 auto;
+    padding: 1.5em;
+    font-size:150%;
+}
+
+h1{
+    text-align:center;
+}
